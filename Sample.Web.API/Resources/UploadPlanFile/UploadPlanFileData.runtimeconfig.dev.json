@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\garima.kalia.IXCNEW\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\garima.kalia.IXCNEW\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
